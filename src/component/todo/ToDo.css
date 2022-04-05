@@ -1,0 +1,16 @@
+.list{
+    border: 3px solid black;
+    border-radius: 30px;
+    width: 700px ;
+    background-color: wheat;
+    margin-left:300px;
+    display :flex ;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+.todo{
+    width: 400px;
+    font-size: 30px;
+    
+}
